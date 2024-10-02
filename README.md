@@ -1,9 +1,6 @@
 ## Hi there 👋 I'm Anuj Rathore
 
-💻 I am a MERN stack developer . 
-
-**LinkedIn:** [https://www.linkedin.com/in/anuj-rathore-a01960272/]  
-**Email:** [anujrathore385@gmail.com]  
+💻 I am a MERN stack developer .  
 
 ## 🎉 Skills 🎉  
 
@@ -26,5 +23,9 @@
 - C, C++, JavaScript ,Java
 
 ### **Developers Tool:**  
-- Git, Github, VS code, Linux 
+- Git, Github, VS code, Linux
+
+## Connect With me on: 
+**Email:** [anujrathore385@gmail.com] 
+**Linkedin:** [https://www.linkedin.com/in/anuj-rathore-a01960272/]
 ---

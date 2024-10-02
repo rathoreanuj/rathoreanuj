@@ -25,7 +25,7 @@
 ### **Developers Tool:**  
 - Git, Github, VS code, Linux
 
-## Connect With me on: 
+### **Connect With me on:** 
 -**Email:** [anujrathore385@gmail.com] 
 -**Linkedin:** [https://www.linkedin.com/in/anuj-rathore-a01960272/]
 ---

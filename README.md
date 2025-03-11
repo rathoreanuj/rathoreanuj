@@ -7,7 +7,6 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/anuj-rathore-a01960272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd rizwan" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/iamrathoreanuj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rizw_21" height="30" width="40" /></a>
 </p>
 
 

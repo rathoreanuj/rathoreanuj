@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-👋 Hi, I’m Anuj Rathore<br>- 👀 I’m interested in DSA, Web development and Comptative programming<br>- 🌱 I’m currently learning New Skills and striving to progress<br>- 💞️ I’m looking to collaborate on Web & DSA related projects<br>- 📫 How to reach me - by email: anujrathore385@gmail.com
+👋 Hi, I’m Anuj Rathore<br>- 👀 I’m interested in DSA, Web development and Competitive programming<br>- 🌱 I’m currently learning New Skills and striving to progress<br>- 💞️ I’m looking to collaborate on Web & DSA related projects<br>- 📫 How to reach me - by email: anujrathore385@gmail.com
 
 ## 🌐 Socials:
 

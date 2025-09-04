@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="260" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 👯 I'm looking to collaborate on **DSA & DEV related projects.**
 - 💬 Ask me about **MERN Stack and DSA.**

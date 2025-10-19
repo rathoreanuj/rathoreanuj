@@ -12,7 +12,6 @@
 
 <img align="right" alt="Coding" width="260" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 👯 I'm looking to collaborate on **DSA & DEV related projects.**
 - 💬 Ask me about **MERN Stack and DSA.**
 - 🚀 Building scalable full-stack applications
 - 📝 Writing clean, maintainable code
@@ -99,12 +98,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rathoreanuj&theme=tokyo-night&hide_border=false" alt="Contribution Graph" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---

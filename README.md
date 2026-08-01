@@ -12,9 +12,10 @@
 
 <img align="right" alt="Coding" width="260" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💬 Ask me about **MERN Stack and DSA.**
-- 🚀 Building scalable full-stack applications
-- 📝 Writing clean, maintainable code
+- 💬 Ask me about **Backend Systems, MERN Stack, and DSA**
+- 🚀 Building scalable, secure full-stack applications for fintech & healthtech
+- 🏆 1400+ DSA problems solved | Competitive programmer on LeetCode, Codeforces & CodeChef
+- 📝 Writing clean, maintainable, production-ready code
 - 📫 How to reach me: **anujrathore385@gmail.com**
 
 <br clear="both">
@@ -28,8 +29,17 @@
   <a href="mailto:anujrathore385@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/rathoreanuj" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.anujr.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://leetcode.com/u/Rathore_Anuj_007/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/rathoreanuj01_" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/anujrathore36" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
 </p>
 
@@ -41,12 +51,14 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=database&logoColor=white)
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -54,6 +66,7 @@
 ### Backend Development
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%2300C7B7.svg?style=for-the-badge&logo=api&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-%233776AB.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
@@ -62,17 +75,66 @@
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Tools & Technologies
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![cURL](https://img.shields.io/badge/curl-%23007396.svg?style=for-the-badge&logo=curl&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 💼 Experience
+
+**Software Engineering Intern** @ GoBasera · *Remote* — Sep 2025 – Nov 2025
+- Designed backend services for a multi-step onboarding workflow with document verification, lifting onboarding efficiency by 35%
+- Built fault-tolerant Stripe payment workflows, achieving 95% successful online transactions
+- Implemented JWT/OAuth 2.0 authentication & role-based access control, securing 30+ critical APIs
+
+**SDE Intern** @ Quantic Cloud Technologies · *On-Site* — May 2025 – Aug 2025
+- Built scalable backend services powering 20+ fintech workflows
+- Cut API latency by 30% using Redis caching, database indexing & async processing
+- Containerized services with Docker and deployed via AWS CI/CD, integrating 15+ third-party REST APIs at 95% reliability
+
+## 🚀 Featured Projects
+
+### 🏥 [Medipulse](https://github.com/rathoreanuj/Medipulse) — [Live Demo](https://medipulse-frontend.onrender.com/)
+AI-powered healthcare platform with Admin, Doctor & Patient portals for appointment booking, video consultations, and Gemini-powered consultation summaries.
+- AI symptom checker predicting specialty & urgency — improved diagnosis relevance by 30%
+- Real-time video consultations via WebRTC & Socket.io — cut call setup time by 35%
+- Integrated Stripe payments & subscriptions with admin reporting
+
+`WebRTC` `Socket.io` `OAuth 2.0` `Stripe` `JWT` `Cloudinary` `MERN`
+
+### ✈️ [ReRouteAI](https://github.com/rathoreanuj/ReRoute.AI) — [Live Demo](https://reroute-ai-jade.vercel.app/)
+Cloud-native disruption recovery platform for real-time trip monitoring and automated rebooking.
+- FastAPI microservices with PostgreSQL & Redis/Celery for scalable async orchestration
+- AI-powered rebooking engine using the Duffel Flight Offers API + live weather intelligence
+- Secure auth with JWT, Google OAuth2 & session revocation
+
+`NextJS` `PostgreSQL` `Redis/Celery` `FastAPI` `Docker` `Duffel API`
+
+## 🏅 Achievements & Competitive Programming
+
+- 🥇 1st (team), among 1000+ participants / 300+ teams — Ideaverse Hackathon, Abhisarga
+- 🥉 3rd — Intra-Club Coding Hackathon, Gradient Club, IIIT Sri City
+- 🎖️ 6th of 50+ — Codeathon Contest, Gradient Club, Utkrishta Fest
+- 🌐 Global Rank 70/2,843 — CodeChef Starters 206 (Div 3)
+- 📈 Rank 940/30,290 (top 3.10%) — LeetCode Weekly Contest 481
+- 1400+ DSA problems solved across LeetCode, Codeforces, CodeChef, GFG & Code360
+- Ratings: LeetCode max **1909** (Knight) · Codeforces max **1303** (Pupil) · CodeChef max **1604** (3★)
 
 ## 📊 GitHub Stats
 

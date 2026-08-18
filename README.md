@@ -26,6 +26,9 @@
   <a href="https://www.linkedin.com/in/anuj-rathore-a01960272/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+   <a href="https://www.anujr.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio" />
+  </a>
   <a href="mailto:anujrathore385@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
